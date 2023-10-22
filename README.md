@@ -1,5 +1,5 @@
-Set file access permissions on your gdrive file to 'Anyone with the link'.
-Copy the link to the gdrive file.
+Set file access permissions on your gdrive file to 'Anyone with the link'.<br>
+Copy the link to the gdrive file.<br>
 Place this script in folder where you want to download your gdrive file.
 Open the folder in linux terminal.
 Run the following command: sudo sh gdrive_download.sh <Gdrive_file_link> <File_name.file_extension>
